@@ -1,0 +1,466 @@
+# depslib dependency file v1.0
+1679316286 source:d:\Сергей\Учёба\4 семак\Компьютерная графика\2 lab\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1674029754 d:\Сергей\Учёба\4 семак\Компьютерная графика\2 lab\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1678344340 d:\Сергей\Учёба\4 семак\Компьютерная графика\2 lab\menu.h
+
+1678344340 source:d:\Сергей\Учёба\4 семак\Компьютерная графика\2 lab\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1674029754 d:\Сергей\Учёба\4 семак\Компьютерная графика\2 lab\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1678346237 source:d:\Сергей\Учёба\4 семак\Компьютерная графика\2 lab\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1678346237 d:\Сергей\Учёба\4 семак\Компьютерная графика\2 lab\texture.h
+
+1679371756 source:c:\users\student\documents\АСУб-21-1\Коломак\2 лаб\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679371756 c:\users\student\documents\АСУб-21-1\Коломак\2 лаб\menu.h
+
+1679370445 c:\users\student\documents\АСУб-21-1\Коломак\2 лаб\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370445 c:\users\student\documents\АСУб-21-1\Коломак\2 лаб\texture.h
+
+1679371756 source:c:\users\student\documents\АСУб-21-1\Коломак\2 лаб\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370445 c:\users\student\documents\АСУб-21-1\Коломак\2 лаб\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679370445 source:c:\users\student\documents\АСУб-21-1\Коломак\2 лаб\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679371758 source:c:\users\bogda\onedrive\Рабочий стол\2 lab\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 c:\users\bogda\onedrive\Рабочий стол\2 lab\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679371758 c:\users\bogda\onedrive\Рабочий стол\2 lab\menu.h
+
+1679370446 source:c:\users\bogda\onedrive\Рабочий стол\2 lab\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679370446 c:\users\bogda\onedrive\Рабочий стол\2 lab\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 c:\users\bogda\onedrive\Рабочий стол\2 lab\texture.h
+
+1679373190 source:c:\users\bogda\Рабочий стол 2\2 lab\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679371758 c:\users\bogda\Рабочий стол 2\2 lab\menu.h
+
+1679370446 c:\users\bogda\Рабочий стол 2\2 lab\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 c:\users\bogda\Рабочий стол 2\2 lab\texture.h
+
+1679371758 source:c:\users\bogda\Рабочий стол 2\2 lab\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 c:\users\bogda\Рабочий стол 2\2 lab\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679370446 source:c:\users\bogda\Рабочий стол 2\2 lab\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679371758 source:d:\компьютерная графика\2 lab\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 d:\компьютерная графика\2 lab\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679371758 d:\компьютерная графика\2 lab\menu.h
+
+1679370446 source:d:\компьютерная графика\2 lab\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679370446 d:\компьютерная графика\2 lab\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 d:\компьютерная графика\2 lab\texture.h
+
+1712414359 source:d:\Р Р°Р± СЃС‚РѕР»\2 lab\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\2 lab\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679371758 d:\Р Р°Р± СЃС‚РѕР»\2 lab\menu.h
+
+1712413375 source:d:\Р Р°Р± СЃС‚РѕР»\2 lab\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\2 lab\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\2 lab\texture.h
+
+1712413725 source:d:\Р Р°Р± СЃС‚РѕР»\2 lab\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1712413725 source:d:\Р Р°Р± СЃС‚РѕР»\lab 2\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679371758 d:\Р Р°Р± СЃС‚РѕР»\lab 2\menu.h
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 2\texture.h
+
+1712414359 source:d:\Р Р°Р± СЃС‚РѕР»\lab 2\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1712413375 source:d:\Р Р°Р± СЃС‚РѕР»\lab 2\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1714248599 source:d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	<stdbool.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679371758 d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\menu.h
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\texture.h
+
+1712414359 source:d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1712413375 source:d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1714242668 source:d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\hero.c
+
+1714242668 source:d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\hero.h
+
+1714242668 d:\Р Р°Р± СЃС‚РѕР»\РР РќРРўРЈ\РљРѕРјРї РіСЂР°С„\lab 2 вЂ” РєРѕРїРёСЏ\hero.h
+
+1712414359 source:d:\Р Р°Р± СЃС‚РѕР»\lab 3\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 3\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679371758 d:\Р Р°Р± СЃС‚РѕР»\lab 3\menu.h
+
+1712413375 source:d:\Р Р°Р± СЃС‚РѕР»\lab 3\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 3\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 3\texture.h
+
+1714401218 source:d:\Р Р°Р± СЃС‚РѕР»\lab 3\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	<stdbool.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+	<stdio.h>
+
+1714401491 source:d:\Р Р°Р± СЃС‚РѕР»\lab 4\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+	<stdbool.h>
+	"menu.h"
+	"stb-master/stb_image.h"
+	"texture.h"
+	<stdio.h>
+
+1679371758 d:\Р Р°Р± СЃС‚РѕР»\lab 4\menu.h
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 4\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 4\texture.h
+
+1712414359 source:d:\Р Р°Р± СЃС‚РѕР»\lab 4\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_easy_font.h"
+	"menu.h"
+
+1679370446 d:\Р Р°Р± СЃС‚РѕР»\lab 4\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1712413375 source:d:\Р Р°Р± СЃС‚РѕР»\lab 4\texture.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb-master/stb_image.h"
+	"texture.h"
+
